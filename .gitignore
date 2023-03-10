@@ -13,3 +13,4 @@ model-healthcare-test-*
 *.o
 *.obj
 *.lst
+dub.selections.json

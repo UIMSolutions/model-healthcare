@@ -3,7 +3,7 @@
 		"Sicherheitsschmiede",
 		"Ozan Nurettin Süel"
 	],
-	"copyright": "Copyright © 2015-2023, Ozan NUrettin Süel",
+	"copyright": "Copyright © 2015-2023, Ozan Nurettin Süel",
 	"description": "Model for CMS applications",
 	"license": "Apache-2.0",
 	"name": "model-healthcare",
@@ -17,6 +17,8 @@
         "../../LIBS/uim-models",
         "../../LIBS/uim-jsonbase",
 				"../../LIBS/uim-entitybase",
+
+				"../../MODELS/model-systems",
         "./"
     ],
     "importPaths": [
@@ -25,6 +27,8 @@
         "../../LIBS/uim-models",
         "../../LIBS/uim-jsonbase",
 				"../../LIBS/uim-entitybase",
+
+				"../../MODELS/model-systems",
         "./"
     ],
 	"configurations": [
